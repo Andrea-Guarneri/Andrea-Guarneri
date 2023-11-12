@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Guarneri</h1>
 <h3 align="center">A passionate frontend developer from 🇮🇹 Italy.</h3>
 
+I speak🗣️🇮🇹🇬🇧🇧🇷 
 - 📫 How to reach me **guarneri.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
