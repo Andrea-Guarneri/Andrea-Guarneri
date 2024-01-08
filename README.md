@@ -1,6 +1,6 @@
 ### Hello, I'm Andrea 🧑🏻‍💻
 
-- I am fluent in English 🇬🇧, Italian 🇮🇹 and Portuguese 🇧🇷
+- I am fluent in Italian🇮🇹, English🇬🇧 and Portuguese🇧🇷
 - 📫 How to reach me **guarneri.work@gmail.com**
 
 <div>
