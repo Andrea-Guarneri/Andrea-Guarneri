@@ -6,12 +6,12 @@ I am fluent in English 🇬🇧, Italian 🇮🇹 and Portuguese 🇧🇷
 <div>
   <a href="https://github.com/jovijovi-john">
   <div>
-    <a href="https://github.com/jovijovi-john">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovijovi-john&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovijovi-john&layout=compact&langs_count=7&theme=algolia"/>
-   
+    <a href="https://github.com/Andrea-Guarneri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrea-Guarneri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Guarneri&layout=compact&langs_count=7&theme=algolia"/>
   </div>
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
