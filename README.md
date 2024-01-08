@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Andrea Guarneri</h1>
-<h3 align="center">A passionate frontend developer from 🇮🇹 Italy.</h3>
+
 
 I am fluent in English 🇬🇧, Italian 🇮🇹 and Portuguese 🇧🇷
 - 📫 How to reach me **guarneri.work@gmail.com**
+
+<div>
+  <a href="https://github.com/jovijovi-john">
+  <div>
+    <a href="https://github.com/jovijovi-john">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovijovi-john&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovijovi-john&layout=compact&langs_count=7&theme=algolia"/>
+   
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
