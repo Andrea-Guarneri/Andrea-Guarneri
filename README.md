@@ -1,8 +1,7 @@
 ### Hello, I'm Andrea 🧑🏻‍💻
 
 - I am fluent in Italian🇮🇹, English🇬🇧 and Portuguese🇧🇷
-- 📫 How to reach me **guarneri.work@gmail.com** or [
-](https://www.linkedin.com/in/andreaguarneri)
+- 📫 How to reach me **guarneri.work@gmail.com** or **https://www.linkedin.com/in/andreaguarneri**
 <div>
   <a href="https://github.com/jovijovi-john">
   <div>
