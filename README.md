@@ -16,7 +16,7 @@
 <p>
 <a href="https://commons.wikimedia.org/wiki/File:HTML5_Badge.svg" target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049 alt="html5" width="40" height="40"/> 
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<a href="https://iconduck.com/icons/101876/file-type-css" target="_blank" rel="noreferrer"> <img src= "https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>     
