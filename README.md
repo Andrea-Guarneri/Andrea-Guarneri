@@ -18,10 +18,11 @@
 </a>
 <a href="https://iconduck.com/icons/101876/file-type-css" target="_blank" rel="noreferrer"> <img src= "https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="40" height="40"/> 
 </a>
-<a href="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwindcss" width="40" height="40"/> 
 </a>  
 <a href="https://www.svgrepo.com/svg/303206/javascript-logo" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" width="40" height="40"/> 
 </a>     
+<a href="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwindcss" width="40" height="40"/> 
+</a>
 <a href="https://uxwing.com/visual-studio-code-icon/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="vscode" width="40" height="40"/> 
 </a>     
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
